@@ -1,2 +1,2 @@
 # CMDLineMERNStack
-CMDLineMERNStack
+CMDLineMERNStack - Terminal Exercises 
